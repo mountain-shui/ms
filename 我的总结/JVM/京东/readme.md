@@ -24,7 +24,7 @@
 
   ### 1.内存分区
 
-![JVM运行时数据区域](images\JVM运行时数据区域.png)
+![JVM运行时数据区域](https://github.com/mountain-shui/ms/blob/main/%E6%88%91%E7%9A%84%E6%80%BB%E7%BB%93/JVM/%E4%BA%AC%E4%B8%9C/images/2019-3Java%E8%BF%90%E8%A1%8C%E6%97%B6%E6%95%B0%E6%8D%AE%E5%8C%BA%E5%9F%9FJDK1.8.png)
 
  ![2019-3Java运行时数据区域JDK1.8](images\2019-3Java运行时数据区域JDK1.8.png)
 
